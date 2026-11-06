@@ -1,0 +1,103 @@
+ticket_id,text,category,priority
+TKT-00653,i noticed a login from an unknown device and suspect unauthorized access i am contacting support for a routine request i have included the relevant details in this request.,Security,Low
+TKT-00373,please provide instructions for exchanging the item i am contacting support for a routine request i am waiting for your support team's response.,Returns,Low
+TKT-00049,i cannot log in to my account because the password is not accepted a timely update would be helpful please contact me with an update.,Account Access,Medium
+TKT-00158,please explain the extra fee on my latest bill please escalate this as soon as possible thank you for your help.,Billing,High
+TKT-00681,i received a suspicious message asking for my account password please look into this during the next business day i would appreciate your assistance.,Security,Medium
+TKT-00055,the password reset link is not working and i cannot access my profile this is affecting my normal use of the service i have already tried the basic troubleshooting steps.,Account Access,Medium
+TKT-00376,my refund has not arrived after the returned product was received it is not time sensitive thank you for your help.,Returns,Low
+TKT-00418,i want to return the item and request a refund i need assistance to resolve this issue thank you for your help.,Returns,Medium
+TKT-00208,i am experiencing repeated technical errors while using the service please review this when convenient i can provide more details if required.,Technical Issue,Low
+TKT-00423,the product arrived damaged and i need to arrange a return i cannot continue until this is resolved thank you for your help.,Returns,High
+TKT-00059,my account is locked and i need help signing in please look into this during the next business day i hope this can be resolved soon.,Account Access,Medium
+TKT-00060,i cannot log in to my account because the password is not accepted this is affecting my normal use of the service i am waiting for your support team's response.,Account Access,Medium
+TKT-00327,i need an update about the delivery status of my order i need assistance to resolve this issue i have included the relevant details in this request.,Shipping,Medium
+TKT-00508,i have a question about the available product options i need assistance to resolve this issue please contact me with an update.,Product Inquiry,Medium
+TKT-00427,please provide instructions for exchanging the item i cannot continue until this is resolved please let me know the next steps.,Returns,High
+TKT-00646,please help me report a possible security breach please review this when convenient i have already tried the basic troubleshooting steps.,Security,Low
+TKT-00578,please explain how to cancel my recurring subscription this is affecting my normal use of the service please let me know the next steps.,Subscription,Medium
+TKT-00539,does this product support the features listed on the website this is urgent and needs immediate attention i would appreciate your assistance.,Product Inquiry,High
+TKT-00078,the password reset link is not working and i cannot access my profile this is causing a serious disruption i am waiting for your support team's response.,Account Access,High
+TKT-00167,i do not recognize a charge on my payment statement this is causing a serious disruption i have already tried the basic troubleshooting steps.,Billing,High
+TKT-00438,i want to return the item and request a refund please escalate this as soon as possible please check this request and advise.,Returns,High
+TKT-00330,the tracking number shows no movement for several days i would appreciate a response soon i would appreciate your assistance.,Shipping,Medium
+TKT-00279,the tracking number shows no movement for several days there is no immediate urgency i hope this can be resolved soon.,Shipping,Low
+TKT-00268,the page freezes when i submit the form the issue is blocking my work right now please contact me with an update.,Technical Issue,High
+TKT-00571,i need help changing my subscription plan please look into this during the next business day please check this request and advise.,Subscription,Medium
+TKT-00043,i cannot log in to my account because the password is not accepted i would appreciate a response soon please let me know the next steps.,Account Access,Medium
+TKT-00255,a feature stopped working after the latest application update i cannot continue until this is resolved i hope this can be resolved soon.,Technical Issue,High
+TKT-00573,i want to update the billing cycle for my subscription i would appreciate a response soon i have included the relevant details in this request.,Subscription,Medium
+TKT-00228,the application crashes whenever i try to open the dashboard a timely update would be helpful thank you for your help.,Technical Issue,Medium
+TKT-00065,my account is locked and i need help signing in this is causing a serious disruption i am waiting for your support team's response.,Account Access,High
+TKT-00135,my recent payment failed but money was deducted from my bank a timely update would be helpful please review the issue and guide me.,Billing,Medium
+TKT-00461,i would like to know the product specifications before purchasing there is no immediate urgency i would be grateful for a clear resolution.,Product Inquiry,Low
+TKT-00716,please help me report a possible security breach i cannot continue until this is resolved i would be grateful for a clear resolution.,Security,High
+TKT-00392,please provide instructions for exchanging the item a timely update would be helpful i would appreciate your assistance.,Returns,Medium
+TKT-00467,can you confirm the dimensions and warranty details it is not time sensitive please check this request and advise.,Product Inquiry,Low
+TKT-00605,my subscription renewal did not complete successfully the issue is blocking my work right now thank you for your help.,Subscription,High
+TKT-00195,a feature stopped working after the latest application update please review this when convenient i am waiting for your support team's response.,Technical Issue,Low
+TKT-00495,please share more information about product compatibility please look into this during the next business day i have already tried the basic troubleshooting steps.,Product Inquiry,Medium
+TKT-00667,i received a suspicious message asking for my account password i need assistance to resolve this issue please let me know the next steps.,Security,Medium
+TKT-00005,i am unable to verify my email address to access the account there is no immediate urgency thank you for your help.,Account Access,Low
+TKT-00520,does this product support the features listed on the website this is causing a serious disruption please check this request and advise.,Product Inquiry,High
+TKT-00687,i want to report suspicious activity on my profile this is affecting my normal use of the service i am waiting for your support team's response.,Security,Medium
+TKT-00693,i want to report suspicious activity on my profile please escalate this as soon as possible i would appreciate your assistance.,Security,High
+TKT-00283,my order has not arrived and the tracking page has not updated there is no immediate urgency please check this request and advise.,Shipping,Low
+TKT-00265,the website displays an error and does not load correctly i cannot continue until this is resolved i have included the relevant details in this request.,Technical Issue,High
+TKT-00074,i cannot log in to my account because the password is not accepted the issue is blocking my work right now please let me know the next steps.,Account Access,High
+TKT-00103,please explain the extra fee on my latest bill this can be handled whenever the team is available thank you for your help.,Billing,Low
+TKT-00616,please explain how to cancel my recurring subscription i cannot continue until this is resolved i have included the relevant details in this request.,Subscription,High
+TKT-00009,the login page keeps rejecting my credentials please review this when convenient i hope this can be resolved soon.,Account Access,Low
+TKT-00710,i believe someone has accessed my account without permission this is causing a serious disruption i can provide more details if required.,Security,High
+TKT-00380,i want to return the item and request a refund please review this when convenient i would appreciate your assistance.,Returns,Low
+TKT-00517,i would like to know the product specifications before purchasing this is urgent and needs immediate attention i would be grateful for a clear resolution.,Product Inquiry,High
+TKT-00295,i need an update about the delivery status of my order it is not time sensitive i hope this can be resolved soon.,Shipping,Low
+TKT-00339,the tracking number shows no movement for several days this is causing a serious disruption i would be grateful for a clear resolution.,Shipping,High
+TKT-00314,the tracking number shows no movement for several days a timely update would be helpful please review the issue and guide me.,Shipping,Medium
+TKT-00459,does this product support the features listed on the website it is not time sensitive thank you for your help.,Product Inquiry,Low
+TKT-00656,please help me report a possible security breach i am contacting support for a routine request i would be grateful for a clear resolution.,Security,Low
+TKT-00524,can you confirm the dimensions and warranty details i cannot continue until this is resolved i am waiting for your support team's response.,Product Inquiry,High
+TKT-00277,my shipment was delivered to the wrong address i am contacting support for a routine request please review the issue and guide me.,Shipping,Low
+TKT-00553,i need help changing my subscription plan please review this when convenient i am waiting for your support team's response.,Subscription,Low
+TKT-00402,i received the wrong item and would like to send it back i would appreciate a response soon i am waiting for your support team's response.,Returns,Medium
+TKT-00382,please provide instructions for exchanging the item there is no immediate urgency please contact me with an update.,Returns,Low
+TKT-00682,i believe someone has accessed my account without permission please look into this during the next business day please check this request and advise.,Security,Medium
+TKT-00253,the page freezes when i submit the form this is causing a serious disruption please contact me with an update.,Technical Issue,High
+TKT-00538,does this product support the features listed on the website the issue is blocking my work right now i am waiting for your support team's response.,Product Inquiry,High
+TKT-00134,i do not recognize a charge on my payment statement this is affecting my normal use of the service please review the issue and guide me.,Billing,Medium
+TKT-00654,i received a suspicious message asking for my account password i am contacting support for a routine request i would be grateful for a clear resolution.,Security,Low
+TKT-00196,i am experiencing repeated technical errors while using the service please review this when convenient please check this request and advise.,Technical Issue,Low
+TKT-00626,i want to update the billing cycle for my subscription this is causing a serious disruption please check this request and advise.,Subscription,High
+TKT-00159,i was charged twice for the same purchase and need a billing correction this is causing a serious disruption i can provide more details if required.,Billing,High
+TKT-00334,my shipment was delivered to the wrong address this is urgent and needs immediate attention i have already tried the basic troubleshooting steps.,Shipping,High
+TKT-00013,the password reset link is not working and i cannot access my profile this can be handled whenever the team is available i have already tried the basic troubleshooting steps.,Account Access,Low
+TKT-00001,i cannot log in to my account because the password is not accepted there is no immediate urgency please review the issue and guide me.,Account Access,Low
+TKT-00233,the website displays an error and does not load correctly i need assistance to resolve this issue i have included the relevant details in this request.,Technical Issue,Medium
+TKT-00394,i received the wrong item and would like to send it back please look into this during the next business day i have included the relevant details in this request.,Returns,Medium
+TKT-00105,i was charged twice for the same purchase and need a billing correction it is not time sensitive please let me know the next steps.,Billing,Low
+TKT-00153,the invoice contains an incorrect amount i cannot continue until this is resolved i have already tried the basic troubleshooting steps.,Billing,High
+TKT-00563,i want to update the billing cycle for my subscription there is no immediate urgency i have included the relevant details in this request.,Subscription,Low
+TKT-00358,the tracking number shows no movement for several days this is causing a serious disruption i am waiting for your support team's response.,Shipping,High
+TKT-00202,a feature stopped working after the latest application update this can be handled whenever the team is available please contact me with an update.,Technical Issue,Low
+TKT-00440,please provide instructions for exchanging the item the issue is blocking my work right now please let me know the next steps.,Returns,High
+TKT-00664,i received a suspicious message asking for my account password please look into this during the next business day i can provide more details if required.,Security,Medium
+TKT-00226,the page freezes when i submit the form please look into this during the next business day i can provide more details if required.,Technical Issue,Medium
+TKT-00487,does this product support the features listed on the website this is affecting my normal use of the service i have included the relevant details in this request.,Product Inquiry,Medium
+TKT-00210,the page freezes when i submit the form it is not time sensitive please review the issue and guide me.,Technical Issue,Low
+TKT-00338,my order has not arrived and the tracking page has not updated the issue is blocking my work right now please check this request and advise.,Shipping,High
+TKT-00552,i want to update the billing cycle for my subscription it is not time sensitive please review the issue and guide me.,Subscription,Low
+TKT-00106,the invoice contains an incorrect amount please review this when convenient please let me know the next steps.,Billing,Low
+TKT-00145,the invoice contains an incorrect amount this is affecting my normal use of the service i would appreciate your assistance.,Billing,Medium
+TKT-00586,my subscription renewal did not complete successfully this is affecting my normal use of the service i would be grateful for a clear resolution.,Subscription,Medium
+TKT-00547,i need help changing my subscription plan i am contacting support for a routine request i would be grateful for a clear resolution.,Subscription,Low
+TKT-00489,please share more information about product compatibility a timely update would be helpful i have already tried the basic troubleshooting steps.,Product Inquiry,Medium
+TKT-00486,i would like to know the product specifications before purchasing a timely update would be helpful please check this request and advise.,Product Inquiry,Medium
+TKT-00278,i need an update about the delivery status of my order it is not time sensitive i am waiting for your support team's response.,Shipping,Low
+TKT-00328,my shipment was delivered to the wrong address i would appreciate a response soon i would be grateful for a clear resolution.,Shipping,Medium
+TKT-00234,the application crashes whenever i try to open the dashboard a timely update would be helpful i hope this can be resolved soon.,Technical Issue,Medium
+TKT-00464,i have a question about the available product options there is no immediate urgency please let me know the next steps.,Product Inquiry,Low
+TKT-00703,i want to report suspicious activity on my profile this is urgent and needs immediate attention please check this request and advise.,Security,High
+TKT-00136,my recent payment failed but money was deducted from my bank a timely update would be helpful thank you for your help.,Billing,Medium
+TKT-00113,my recent payment failed but money was deducted from my bank this can be handled whenever the team is available i have included the relevant details in this request.,Billing,Low
+TKT-00081,i cannot log in to my account because the password is not accepted i cannot continue until this is resolved i have already tried the basic troubleshooting steps.,Account Access,High
+TKT-00620,i want to update the billing cycle for my subscription this is causing a serious disruption i hope this can be resolved soon.,Subscription,High

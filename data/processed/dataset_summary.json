@@ -1,0 +1,29 @@
+{
+  "total_rows": 680,
+  "category_counts": {
+    "Account Access": 85,
+    "Billing": 85,
+    "Product Inquiry": 84,
+    "Returns": 86,
+    "Security": 83,
+    "Shipping": 84,
+    "Subscription": 86,
+    "Technical Issue": 87
+  },
+  "priority_counts": {
+    "High": 226,
+    "Low": 229,
+    "Medium": 225
+  },
+  "split_rows": {
+    "train": 476,
+    "validation": 102,
+    "test": 102
+  },
+  "split_percentages": {
+    "train": 70,
+    "validation": 15,
+    "test": 15
+  },
+  "duplicate_text_rows_removed": 40
+}
