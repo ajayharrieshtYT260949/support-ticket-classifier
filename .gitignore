@@ -1,7 +1,31 @@
+# Python virtual environments
 .venv/
 venv/
+**/.venv/
+**/venv/
+
+# Python cache files
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
+
+# Environment variables
 .env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
 .DS_Store
+Thumbs.db
+
+# Machine learning model weights and artifacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Model checkpoints
+checkpoint-*/
