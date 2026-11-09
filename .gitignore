@@ -29,3 +29,6 @@ Thumbs.db
 
 # Model checkpoints
 checkpoint-*/
+
+# Pytest cache
+.pytest_cache/
