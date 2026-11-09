@@ -1,0 +1,33 @@
+{
+    "category": {
+        "target": "category",
+        "classes": [
+            "Account Access",
+            "Billing",
+            "Product Inquiry",
+            "Returns",
+            "Security",
+            "Shipping",
+            "Subscription",
+            "Technical Issue"
+        ],
+        "training_time_seconds": 101.7708,
+        "training_loss": 1.5797881444295248,
+        "validation_accuracy": 1.0,
+        "validation_macro_f1": 1.0,
+        "model_path": "03-distilbert\\models\\category_model"
+    },
+    "priority": {
+        "target": "priority",
+        "classes": [
+            "High",
+            "Low",
+            "Medium"
+        ],
+        "training_time_seconds": 88.1913,
+        "training_loss": 0.64506516456604,
+        "validation_accuracy": 1.0,
+        "validation_macro_f1": 1.0,
+        "model_path": "03-distilbert\\models\\priority_model"
+    }
+}

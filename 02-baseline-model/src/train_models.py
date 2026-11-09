@@ -12,10 +12,12 @@ from sklearn.metrics import (
     accuracy_score, f1_score, confusion_matrix, classification_report
 )
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
+TASK_DIR = Path(__file__).resolve().parents[1]
+
 DATA_DIR = ROOT / "data" / "processed"
-MODEL_DIR = ROOT / "models"
-REPORT_DIR = ROOT / "reports"
+MODEL_DIR = TASK_DIR / "models"
+REPORT_DIR = TASK_DIR / "reports"
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 REPORT_DIR.mkdir(parents=True, exist_ok=True)
 

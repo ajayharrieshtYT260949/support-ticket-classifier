@@ -125,7 +125,8 @@ def main():
                 ticket_id += 1
 
     random.shuffle(rows)
-    output = Path(__file__).resolve().parents[1] / "data" / "raw" / "support_tickets.csv"
+    ROOT = Path(__file__).resolve().parents[2]
+    output = ROOT / "data" / "raw" / "support_tickets.csv"
     output.parent.mkdir(parents=True, exist_ok=True)
     df = pd.DataFrame(rows)
     df.to_csv(output, index=False)

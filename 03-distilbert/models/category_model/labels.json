@@ -1,0 +1,22 @@
+{
+    "label2id": {
+        "Account Access": 0,
+        "Billing": 1,
+        "Product Inquiry": 2,
+        "Returns": 3,
+        "Security": 4,
+        "Shipping": 5,
+        "Subscription": 6,
+        "Technical Issue": 7
+    },
+    "id2label": {
+        "0": "Account Access",
+        "1": "Billing",
+        "2": "Product Inquiry",
+        "3": "Returns",
+        "4": "Security",
+        "5": "Shipping",
+        "6": "Subscription",
+        "7": "Technical Issue"
+    }
+}

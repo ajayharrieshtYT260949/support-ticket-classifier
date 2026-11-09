@@ -3,9 +3,11 @@ import joblib
 import pandas as pd
 from sklearn.metrics import accuracy_score, f1_score, classification_report
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
+TASK_DIR = Path(__file__).resolve().parents[1]
+
 DATA_DIR = ROOT / "data" / "processed"
-MODEL_DIR = ROOT / "models"
+MODEL_DIR = TASK_DIR / "models"
 
 def main():
     test = pd.read_csv(DATA_DIR / "test.csv")

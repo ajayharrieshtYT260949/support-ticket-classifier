@@ -1,0 +1,14 @@
+{
+    "category": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "inference_time_per_ticket_ms": 26.7539,
+        "test_samples": 102
+    },
+    "priority": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "inference_time_per_ticket_ms": 26.1511,
+        "test_samples": 102
+    }
+}

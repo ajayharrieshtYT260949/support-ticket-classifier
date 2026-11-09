@@ -1,0 +1,5 @@
+task,model,accuracy,macro_f1,inference_time_per_ticket_ms
+category,TF-IDF + Logistic Regression,1.0,1.0,0.769883333363146
+category,DistilBERT,1.0,1.0,27.078346078425575
+priority,TF-IDF + Logistic Regression,1.0,1.0,1.1204470588158892
+priority,DistilBERT,1.0,1.0,26.12696568627482
